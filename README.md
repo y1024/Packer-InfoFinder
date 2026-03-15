@@ -45,9 +45,7 @@
 作者 **风岚sec\_TFour**  、 **eonun** 
 
 
-感谢名单
-
-**muxue**
+感谢名单  **muxue**
 
 `Packer-InfoFinder` 继承了 `Packer-Fuzzer` 强大的Webpack代码拆分还原能力，并在此之上，重点增强了以下功能：
 
